@@ -1,0 +1,5 @@
+version: STSv1
+mode: enforce
+mx: mail.kapsi.fi
+mx: mx2.kapsi.fi
+max_age: 86400
